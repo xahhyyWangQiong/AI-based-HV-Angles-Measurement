@@ -1,3 +1,3 @@
 # AI-based-HV-Angles-Measurement
-Download the AI-based automated measurement model [here] (https://drive.google.com/file/d/1GxUreYGOSoGu-ZF9bzOM-LwdAXv5Vmym/view?usp=drive_link)
-the following the inference.py to run AI-based automated measurement system.
+Download the AI-based automated measurement model [here] (https://drive.google.com/file/d/1GxUreYGOSoGu-ZF9bzOM-LwdAXv5Vmym/view?usp=drive_link) \n
+and  following the inference.py to run AI-based automated measurement system.
